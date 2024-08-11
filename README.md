@@ -5,6 +5,6 @@
 #### summary of changes
 * Click "Pause Game Time only (this will disallow manual unpausing)" is checked
 * All the timings is game time
-        * + / - columns (splits)
-        * time columns (splits)
-        * timing method (timer)
+ 		* + / - columns (splits)
+  		* time columns (splits)
+  		* timing method (timer)
